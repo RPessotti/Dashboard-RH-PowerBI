@@ -12,8 +12,7 @@ Dados fictícios, simulando uma empresa com múltiplas filiais e departamentos.
 Power BI Desktop · DAX · Power Query
 
 ## 🖼️ Preview
-<img src="imagens/dashboard-rh-geral.png" width="600">
-<img src="imagens/dashboard-rh-filtro-sp.png" width="600">
+<img src="imagens/dashboard-rh-geral.png" width="600"> <img src="imagens/dashboard-rh-filtro-sp.png" width="600">
 <img src="imagens/tabela-dados.png"width="700">
 <img src="imagens/lista de colunas.png"width="200">
 
