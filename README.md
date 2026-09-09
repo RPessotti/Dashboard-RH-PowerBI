@@ -12,8 +12,8 @@ Dados fictícios, simulando uma empresa com múltiplas filiais e departamentos.
 Power BI Desktop · DAX · Power Query
 
 ## 🖼️ Preview
-![Visão geral](imagens/dashboard-rh-geral.png)
-![Filtro por filial (SP)](imagens/dashboard-rh-filtro-sp.png)
+<img src="imagens/dashboard-rh-geral.png" width="700">
+<img src="imagens/dashboard-rh-filtro-sp.png" width="700">
 
 ## 💡 Principais insights
 - Quadro de 20 funcionários, com maioria feminina (65% x 35%)
