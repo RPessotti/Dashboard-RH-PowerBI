@@ -27,7 +27,7 @@ Power BI Desktop · DAX · Power Query
 ```
 - Projeto Acompamhamento RH.pbix
 - imagens/
-- REAME.md
+- README.md
 ```
 ## 📬 Contato
 [GitHub](https://github.com/RPessotti) · [LinkedIn](https://linkedin.com/in/rafael-pessotti-563240323)
