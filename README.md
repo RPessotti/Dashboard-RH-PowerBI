@@ -6,7 +6,7 @@ Dashboard descritivo de indicadores de Recursos Humanos: quadro de funcionários
 Centralizar indicadores de RH (headcount, absenteísmo, custo de folha) para apoiar decisões de gestão de pessoas.
 
 ## 📊 Fonte de dados
-Dados fictícios, simulando uma empresa com múltiplas filiais e departamentos.
+Dados fictícios retirados da plataforma kaggle simulando uma empresa com múltiplas filiais e departamentos.
 
 ## 🛠️ Ferramentas
 Power BI Desktop · DAX · Power Query
@@ -14,8 +14,8 @@ Power BI Desktop · DAX · Power Query
 ## 🖼️ Preview
 <img src="imagens/dashboard-rh-geral.png" width="600">
 <img src="imagens/dashboard-rh-filtro-sp.png" width="600">
-<img src="imagens/tabela-dados.png"width="700">
-<img src="imagens/lista de colunas.png"width="200">
+<img src="imagens/tabela-dados.png" width="700">
+<img src="imagens/lista de colunas.png" width="200">
 
 ## 💡 Principais insights
 - Quadro de 20 funcionários, com maioria feminina (65% x 35%)
