@@ -24,10 +24,10 @@ Power BI Desktop · DAX · Power Query
 - São Paulo concentra a maior folha salarial (R$ 66.488) entre as três filiais
 
 ## 📁 Estrutura
-\`\`\`
-├── Projeto Acompanhamento RH.pbix
-├── imagens/
-└── README.md
-\`\`\`
+'''
+- Projeto Acompamhamento RH.pbix
+- imagens/
+- REAME.md
+'''
 ## 📬 Contato
 [GitHub](https://github.com/RPessotti) · [LinkedIn](https://linkedin.com/in/rafael-pessotti-563240323)
