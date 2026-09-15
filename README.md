@@ -1,5 +1,9 @@
 # Acompanhamento de RH — Dashboard Power BI
 
+```
+atualizar projeto o quanto antes
+```
+
 Dashboard descritivo de indicadores de Recursos Humanos: quadro de funcionários, distribuição por gênero e idade, faltas, custos e salários por departamento e filial.
 
 ## 🎯 Objetivo
