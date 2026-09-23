@@ -67,9 +67,9 @@ Power BI Desktop · DAX · Power Query (M)
 - Projeto Acompamhamento RH.pbix
 - objetivo
 - fonte de dados
-- tecnologias
+- ferramentas utilizadas
+- imagens/imagens
 - dashboard pública
-- imagens/
 - README.md
 ```
 ## 📬 Contato
