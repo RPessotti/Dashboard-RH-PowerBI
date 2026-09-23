@@ -35,7 +35,7 @@ Power BI Desktop · DAX · Power Query (M)
 
 ### Fonte de Dados
 <p align="center">
-  <img src="imagens/tabela-dados.png" width="700"><br>
+  <img src="imagens/tabela-dados.png" width="800"><br>
 <em>Base de dados utilizada, com colunas de nome, idade, data de admissão, departamento, salário, faltas, filial, demissões, sexo e contratações.</em>
 </p>
 
