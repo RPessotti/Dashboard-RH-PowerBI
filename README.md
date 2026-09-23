@@ -68,7 +68,7 @@ Power BI Desktop · DAX · Power Query (M)
 - objetivo
 - fonte de dados
 - ferramentas utilizadas
-- /imagens
+- imagens/
 - dashboard pública
 - README.md
 ```
