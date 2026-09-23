@@ -1,7 +1,7 @@
 <h1 align="center">HR Management Dashboard</h1>
 
 <p align="center">
-  <strong>Dashboard de gestão em Power BI</strong> — acompanhamento de indicadores de Recursos Humanos: headcount, absenteísmo e custo de folha
+  <strong>Dashboard de gestão em Power BI</strong> - acompanhamento de indicadores de Recursos Humanos: headcount, absenteísmo e custo de folha
 </p>
 
 <p align="center">
