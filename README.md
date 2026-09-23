@@ -13,7 +13,7 @@
 
 ---
 ## 🎯 Objetivo
-Centralizar indicadores de RH — headcount, absenteísmo, distribuição por gênero/idade e custo de folha — por departamento e filial, para apoiar decisões de gestão de pessoas.
+Centralizar indicadores de RH - headcount, absenteísmo, distribuição por gênero/idade e custo de folha - por departamento e filial, para apoiar decisões de gestão de pessoas.
 
 ## 📊 Fonte de dados
 Dados fictícios da plataforma Kaggle, simulando uma empresa com múltiplas filiais (São Paulo, Rio de Janeiro e Minas Gerais) e departamentos.
