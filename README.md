@@ -1,19 +1,19 @@
 # Acompanhamento de RH — Dashboard Power BI
 
-```
-atualizar projeto o quanto antes
-```
-
-Dashboard descritivo de indicadores de Recursos Humanos: quadro de funcionários, distribuição por gênero e idade, faltas, custos e salários por departamento e filial.
+Dashboard de indicadores de Recursos Humanos: headcount, absenteísmo, 
+distribuição por gênero/idade e custo de folha por departamento e filial.
 
 ## 🎯 Objetivo
-Centralizar indicadores de RH (headcount, absenteísmo, custo de folha) para apoiar decisões de gestão de pessoas.
+Centralizar indicadores de RH para apoiar decisões de gestão de pessoas.
 
 ## 📊 Fonte de dados
-Dados fictícios retirados da plataforma kaggle simulando uma empresa com múltiplas filiais e departamentos.
+[dataset usado — Kaggle, etc.]
 
-## 🛠️ Ferramentas
-Power BI Desktop · DAX · Power Query
+## 🛠️ Tecnologias
+Power BI, DAX, Power Query
+
+## 🔗 Acesse o dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYTgzOTIwMjUtZWI2Zi00OWViLWJlZmEtOGYwM2Y0OTAxMTlkIiwidCI6IjY1NWFhNjFkLTVkY2ItNDE4Mi05N2YxLTJmNTQ5MTlkZTBjZiJ9
 
 ## 🖼️ Preview
 <img src="imagens/dashboard-rh-geral.png" width="600">
@@ -32,6 +32,10 @@ Power BI Desktop · DAX · Power Query
 ## 📁 Estrutura
 ```
 - Projeto Acompamhamento RH.pbix
+- objetivo
+- fonte de dados
+- tecnologias
+- dashboard pública
 - imagens/
 - README.md
 ```
