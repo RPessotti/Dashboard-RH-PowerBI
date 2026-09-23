@@ -41,7 +41,7 @@ Power BI Desktop · DAX · Power Query (M)
 
 ### Estrutura de Colunas (tb_rh)
 <p align="center">
-  <img src="imagens/lista-de-colunas.png" width="400"><br>
+  <img src="imagens/lista de colunas.png" width="400"><br>
 <em>Colunas da tabela tb_rh utilizadas na modelagem do relatório.</em>
 </p>
 
