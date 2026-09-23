@@ -27,7 +27,7 @@ Power BI Desktop · DAX · Power Query (M)
 <em>Painel geral com os 20 funcionários da base: distribuição por gênero e idade, salários por departamento e por filial, faltas e análise de custo por categoria de funcionário.</em>
 </p>
 
-### Filtro por Filial (São Paulo)
+### Filtro por Filial 
 <p align="center">
   <img src="imagens/dashboard-rh-filtro-sp.png" width="700"><br>
 <em>Mesmo painel filtrado pela filial de São Paulo, mostrando como os indicadores de gênero, idade e custo se comportam de forma independente para cada unidade.</em>
