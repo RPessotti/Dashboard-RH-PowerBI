@@ -58,12 +58,6 @@ Power BI Desktop · DAX · Power Query (M)
 - Rio de Janeiro registra o maior número de faltas (22), contra 17 em São Paulo e nenhuma em Minas Gerais
 
 ## 📁 Estrutura
-- Projeto Acompanhamento RH.pbix
-- imagens/
-- README.md
-
-## 📬 Contato
-[GitHub](https://github.com/RPessotti) · [LinkedIn](https://linkedin.com/in/rafael-pessotti-563240323)
 ```
 - Projeto Acompamhamento RH.pbix
 - objetivo
@@ -73,5 +67,6 @@ Power BI Desktop · DAX · Power Query (M)
 - dashboard pública
 - README.md
 ```
+
 ## 📬 Contato
 [GitHub](https://github.com/RPessotti) · [LinkedIn](https://linkedin.com/in/rafael-pessotti-563240323)
