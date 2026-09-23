@@ -47,7 +47,7 @@ Power BI Desktop · DAX · Power Query (M)
 </p>
 
 ## 🔗 Dashboard Interativo
-[▶️ Dashboard público](https://app.powerbi.com/view?r=eyJrIjoiYTgzOTIwMjUtZWI2Zi00OWViLWJlZmEtOGYwM2Y0OTAxMTlkIiwidCI6IjY1NWFhNjFkLTVkY2ItNDE4Mi05N2YxLTJmNTQ5MTlkZTBjZiJ9)
+[▶️ clique aqui para ver o Dashboard público de RH](https://app.powerbi.com/view?r=eyJrIjoiYTgzOTIwMjUtZWI2Zi00OWViLWJlZmEtOGYwM2Y0OTAxMTlkIiwidCI6IjY1NWFhNjFkLTVkY2ItNDE4Mi05N2YxLTJmNTQ5MTlkZTBjZiJ9)
 
 ## 💡 Principais insights
 - Base de 20 funcionários, com 65% mulheres (13) e 35% homens (7)
